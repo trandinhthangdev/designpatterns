@@ -1,0 +1,32 @@
+- Creational Pattern:
+    + Singleton Pattern
+    + Simple Factory Pattern
+    + Factory Method Pattern
+    + Abstract Factory Pattern
+    + Prototype Pattern
+    + Builder Pattern
+- Structural Pattern
+    + Adapter Pattern
+    + Bridge Pattern
+    + Composite Pattern
+    + Decorator Pattern
+    + Facade Pattern
+    + Flyweight Pattern
+    + Proxy Pattern
+- Behavioral Pattern
+    + Chain of Responsibility Pattern
+    + Command Pattern
+    + Interpreter Pattern
+    + Interator Pattern
+    + Mediator Pattern
+    + Memento Pattern
+    + Observer Pattern
+    + State Pattern
+    + Strategy Pattern
+    + Template Method Pattern
+    + Vistor Pattern
+
+-----
+#1 Strategy Pattern
+#2 Observer Pattern
+
